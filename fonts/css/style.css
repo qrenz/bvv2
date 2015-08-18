@@ -1,0 +1,55 @@
+/*if u lookin' at this i love u*/
+body {
+    background-color: black;
+    tex-align:center;
+}
+h1 {
+    color: white;
+    margin:0;
+    padding:0;
+    vertical-align:middle; 
+    display:table-cell; 
+}
+#text {
+        height:100px;
+        width:100%;
+        display:table;
+        text-align: center;
+	 font-size: 30px;
+    }
+    .vertical 
+    {
+           color:white;
+         display:table-cell;
+        vertical-align:middle;
+}
+#albumcover {
+  text-align:center;
+}
+p {
+
+	color:white;
+	font-size:70%;
+}
+footer { 
+       width:100%;
+	height:30px;
+	position:absolute;
+	bottom:0;
+	left:0;
+	background:dark gray;
+}
+#container{
+    width:500px;
+    margin-left:auto;
+    margin-right:auto;
+    text-align:left;
+}
+a:link {
+color: #FF0000; 
+text-decoration: underline; 
+}
+a:hover {
+color: #FFFFFF; 
+text-decoration: none; 
+}
